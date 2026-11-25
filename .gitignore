@@ -1,0 +1,10 @@
+# Build and runtime artefacts for the roast-your-fridge entry.
+node_modules/
+output/
+*.log
+.DS_Store
+
+# Never commit local editor or OS leftovers.
+*.swp
+*.swo
+Thumbs.db
